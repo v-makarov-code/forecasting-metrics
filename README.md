@@ -40,8 +40,9 @@
 
 ## Стек 
 
-- Python 3.13
+- Python 3.13(numpy, pandas)
 - Orbit 1.1.4.2
+- ClickHouse
 
 
 
